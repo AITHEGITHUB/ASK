@@ -1,2 +1,2 @@
-# AITHE
-AITHE 업무지식공유시스템
+# ASK
+AITHE Study Keep Going !
